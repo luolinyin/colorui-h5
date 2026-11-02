@@ -2,7 +2,9 @@
 
 > **📦 本仓库说明**：这是 [weilanwl/coloruicss](https://github.com/weilanwl/coloruiBeta)（ColorUI 官方库，MIT 许可证）的**镜像**，并附带一份**完全离线、可直接运行**的 H5 演示站 `colorui-h5-mirror/`（与线上 `miren.lovemi.ren/colorui-h5` 逐字节一致，外部 CDN 资源已本地化）。
 >
-> 想直接看效果？进入 `colorui-h5-mirror/` 目录，双击 `start.bat`（Windows）或执行 `bash start.sh`（macOS/Linux），浏览器即打开演示站。详见该目录内说明。
+> 🌐 **在线演示**：https://luolinyin.github.io/colorui-h5/ （GitHub Pages，无需下载即可看效果）
+>
+> 想本地运行？进入 `colorui-h5-mirror/` 目录，双击 `start.bat`（Windows）或执行 `bash start.sh`（macOS/Linux），浏览器即打开演示站。详见该目录内说明。
 
 <p align="center">V3 测试版：https://github.com/weilanwl/coloruiBeta</p>
 
