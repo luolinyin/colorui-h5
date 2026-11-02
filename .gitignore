@@ -1,0 +1,13 @@
+# OS / 编辑器
+.DS_Store
+Thumbs.db
+*.swp
+
+# 依赖（官方 UniApp 工程，不提交 node_modules）
+node_modules/
+
+# 本仓库仅发布“镜像 + 官方源码”，早期手写高仿预览页不纳入
+preview/
+
+# 本地镜像构建清单（可选，非必需）
+colorui-h5-mirror/chunk_list.txt
